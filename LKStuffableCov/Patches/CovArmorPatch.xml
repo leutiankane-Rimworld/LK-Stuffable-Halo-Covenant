@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name="ApparelBaseCov"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[@Name="ArmorMakeableBaseCov"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[@Name="ApparelBaseCov"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+  <Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[@Name="ArmorMakeableBaseCov"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--individual armors-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="SpecOps"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="SpecOps"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteStalker"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteStalker"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Undersuit"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="Undersuit"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Shields-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Covenant_Shield"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="Covenant_Shield"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	
+  
+</Patch>

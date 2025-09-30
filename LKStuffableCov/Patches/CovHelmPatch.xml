@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+<!--Minor helms-->
+<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="MinorHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="MinorHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="GruntMask"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="GruntMask"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteMinorHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteMinorHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Major Helms-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="GruntMajor"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="GruntMajor"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+  <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteMajorHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteMajorHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="MajorHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="MajorHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Ultra Helms-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="GruntUltraHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="GruntUltraHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteUltraHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteUltraHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="UltraHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="UltraHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Ranger-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="RangerHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="RangerHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Spec Ops-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="SpecOpsHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="SpecOpsHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="SpecOpsG"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="SpecOpsG"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	
+	<!--Zealot-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="ZealotHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="ZealotHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--General-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="GenHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="GenHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Honor Guard -->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="HGHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="HGHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Arbiter Helm-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="ArbiterHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="ArbiterHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<!--Brute High level helms-->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteCapRedHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteCapRedHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteCapHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteCapHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteCaptainMajorHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteCaptainMajorHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteCaptainUltraHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteCaptainUltraHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteStalkerHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteStalkerHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="BruteChiefHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="BruteChiefHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="WarChieftainHelm"]</xpath>
+		<value>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="WarChieftainHelm"]</xpath>
+		<value>
+		<costStuffCount>100</costStuffCount>
+		</value>
+	</Operation>
+	
+</Patch>
